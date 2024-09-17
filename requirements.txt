@@ -1,0 +1,2 @@
+matplotlib>=3.0.0
+choice-learn>=1.0.0
