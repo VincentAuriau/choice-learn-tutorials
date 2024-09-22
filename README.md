@@ -1,6 +1,8 @@
-# Choice-Learn tutorials
+# Choice-Learn Tutorials
 
-![IntroImg](images/choice_modeling_intro.jpeg)
+<center>
+<img src="images/choice_modeling_intro.jpeg" alt="drawing" width="400"/>
+</center>
 
 Diverse tutorials for discrete choice modeling with [choice-learn](https://github.com/artefactory/choice-learn).
 - Introduction to choice modeling: [[article]]() [[notebook]](./notebooks/introduction.ipynb)
