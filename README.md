@@ -1,7 +1,7 @@
 # Choice-Learn Tutorials
 
 <div align="center">
-<img src="images/choice_modeling_intro.jpeg" alt="drawing" width="650"/>
+<img src="images/choice_modeling_intro.jpeg" alt="drawing" width="550"/>
 </div>
 
 Diverse tutorials for discrete choice modeling with [choice-learn](https://github.com/artefactory/choice-learn).
